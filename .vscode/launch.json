@@ -1,0 +1,39 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "timeout": 30000,
+        }
+    ]
+
+        {
+            "type": "java",
+            "name": "HoraDoSitema",
+            "request": "launch",
+            "mainClass": "HoraDoSitema",
+            "projectName": "Programas-em-JAVA_c2636a91"
+        },
+        {
+            "type": "java",
+            "name": "OlaMundo",
+            "request": "launch",
+            "mainClass": "OlaMundo",
+            "projectName": "Programas-em-JAVA_c2636a91"
+        }
+    ]
+}
