@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OlaMundoSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/programa-exemplo/OlaMundoSwing/dist/OlaMundoSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

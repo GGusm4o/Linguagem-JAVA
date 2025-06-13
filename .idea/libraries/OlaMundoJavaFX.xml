@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OlaMundoJavaFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/programa-exemplo/OlaMundoJavaFX/dist/OlaMundoJavaFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
