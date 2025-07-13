@@ -1,6 +1,6 @@
 Olá ,Mundo
 
-Criado para mostrar a evolução dos estudos de programas feitos em JAVA.
+Criado para mostrar a evolução dos meus estudos de programas feitos em JAVA.
 
 📚 Linguagens Utilizadas
 
