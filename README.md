@@ -33,3 +33,7 @@ Para executar os projetos você precisa ter instalado:
 💡 Contribuição
 
 Sinta-se livre para abrir uma issue ou fazer um fork com melhorias, correções ou sugestões.
+
+📄 Licença
+
+Este projeto está licenciado sob a MIT License.
