@@ -20,7 +20,7 @@ O objetivo é praticar conceitos como:
 Para executar os projetos você precisa ter instalado:
 
 - compilador/interpretador:
- JAVA
+ JDK 21+
 - IDEs recomendada:
  IntelliJ IDEA, NetBeans, VS Code
 
